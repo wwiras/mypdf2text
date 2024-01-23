@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # importing required modules
 import sys 
 from PyPDF2 import PdfReader
