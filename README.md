@@ -1,2 +1,2 @@
 # mypdf2text
-This ocde convert pdf to text.
+This code convert pdf to text.
